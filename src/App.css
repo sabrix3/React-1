@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.kabrera {
+  font-weight: bold;
+}
+
+.form {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  height: 100%;
+}
+
+Button {
+  width: 100%;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
